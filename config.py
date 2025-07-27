@@ -14,11 +14,11 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","HEHE_STALKER")
+OWNER_USERNAME = getenv("OWNER_USERNAME","II_YOUR_GOJO_ll")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "TIDALXMUSICBOT")
+BOT_USERNAME = getenv("BOT_USERNAME" , "Yorsamusic_bot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "TIDAL X MUSIC")
+BOT_NAME = getenv("BOT_NAME" , "YORSA X MUSIC")
 # ---------------------------------------------------------
 ASSUSERNAME = getenv("ASSUSERNAME" , "HEHE_STALKER")
 # ---------------------------------------------------------
@@ -38,7 +38,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 LOGGER_ID = int(getenv("LOGGER_ID", -1002018556839))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 6762113050))
+OWNER_ID = int(getenv("OWNER_ID", 7553434931))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/drxgiveway")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/drx_supportchat")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/GOJO_SUPPORT_GROUP_II")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/GOJO_NOBITA_II")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -141,13 +141,13 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/v0v41s.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/dxt02f.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://files.catbox.moe/z1vt2e.jpg"
+    "PING_IMG_URL", "https://files.catbox.moe/xagcg4.jpg"
 )
 PLAYLIST_IMG_URL = "https://graph.org/file/5346f8d3e34f85855176b-8f3a38df6c805fb7d7.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/8rmrd9.jpg"
+STATS_IMG_URL = "https://graph.org/file/90ef1bc444de679d65209-335d94a31975f4eda6.jpg"
 TELEGRAM_AUDIO_URL = "https://files.catbox.moe/2vq8oz.jpg"
 TELEGRAM_VIDEO_URL = "https://files.catbox.moe/2vq8oz.jpg"
 STREAM_IMG_URL = "https://files.catbox.moe/2vq8oz.jpg"
